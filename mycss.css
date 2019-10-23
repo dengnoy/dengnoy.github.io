@@ -23,3 +23,10 @@
 .box-item {
     box-shadow: 1px 1px 5px #ccc5c5;
 }
+
+html{
+	background: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1572424203&di=bed2825cfadfc0820b7b75b16d8a5b2f&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.redocn.com%2Fsheying%2F20161021%2Fxiaohefengjing_7311709.jpg')
+	 no-repeat fixed top;
+	 background-size: 100% 100%;
+	
+}
