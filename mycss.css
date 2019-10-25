@@ -42,6 +42,6 @@ a {	display: inline-block;
 
 
 #container {
-	width: 700px;
-	margin: 30px auto 0;
+	display: inline-block;
+	margin: 30px;
 }
